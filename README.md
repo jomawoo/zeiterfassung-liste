@@ -1,4 +1,4 @@
-# Awesome Zeiterfassung DACH [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Die beste Zeiterfassung DACH [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Eine kuratierte Liste der besten Zeiterfassungs-Tools, Ressourcen und Methoden für den deutschsprachigen Raum (Deutschland, Österreich, Schweiz).
 
